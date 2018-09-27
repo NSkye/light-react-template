@@ -7,6 +7,7 @@ This presetup is based on the following stack:
 - [Redux-Saga](https://github.com/redux-saga/redux-saga)
 - [styled-components](https://www.styled-components.com/)
 - [Reselect](https://github.com/reduxjs/reselect)  
+- [normalize.css](https://necolas.github.io/normalize.css/)
 
 - [Webpack](https://webpack.js.org/)
 - [ESLint](https://eslint.org/)
